@@ -1,6 +1,6 @@
 # Find My Perfect Job
 
-![Find My Perfect Job banner](banner.svg)
+![Find My Perfect Job banner](banner-fmpj.svg)
 
 An AI skill that acts as a career coach. It works through a structured diagnostic to find your achievement patterns, energy drivers and competitive advantages, then builds a tiered career roadmap and a 6-month action plan.
 
@@ -51,4 +51,3 @@ The behaviour is defined entirely in `SKILL.md`. You can edit the diagnostic que
 
 ## Licence
 
-Add your chosen licence here. MIT is a common choice for skills like this one, which are meant to be reused and adapted.
