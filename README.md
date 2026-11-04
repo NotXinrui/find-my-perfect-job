@@ -33,7 +33,7 @@ Before you use the skill, update the profile and CV tracks to match your own bac
 
 ### 2. Install the skill
 
-Add the `find-my-perfect-job` folder to your tool as a skill, following your tool's instructions for custom skills.
+Add the [`find-my-perfect-job`](https://github.com/NotXinrui/find-my-perfect-job/blob/main/SKILL.md) to your tool as a skill, following your tool's instructions for custom skills.
 
 ### 3. Start a conversation
 
