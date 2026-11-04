@@ -12,7 +12,7 @@ Most career tools match CV keywords to job descriptions. This skill starts with 
 - **Suggests 30 roles** in three tiers: immediate moves, mid-term evolution, and niche intersections
 - **Expands any interest** into 30 related industries, repeatable until you are satisfied
 - **Plans your next steps**: what to learn, where to strengthen your CV, and a 6-month timeline
-- **Hands off to applications**: once you have CVs for different role types, it points you to the `uk-career-coach` skill
+- **Hands off to applications**: once you have CVs for different role types, it points you to the [`uk-career-coach`](https://github.com/NotXinrui/UK-Career-Coach) skill
 
 ## How it works
 
