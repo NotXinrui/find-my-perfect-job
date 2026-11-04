@@ -63,8 +63,3 @@ This skill works inside your conversation. Do not commit your CV, personal detai
 ## Related
 
 - [`uk-career-coach`]([#](https://github.com/NotXinrui/UK-Career-Coach)) — job-level support: job description assessment, CV tailoring, keyword gaps, and cover letters
-
-
-## Privacy
-
-Your answers and any CV you share stay in the conversation with your AI tool, subject to that tool's data policy. Before you publish or share anything you produce with this skill, remove personal details such as your name, employer, location, colleagues, or any health, family or financial information. Do not commit personal answers or CVs to this repository.
