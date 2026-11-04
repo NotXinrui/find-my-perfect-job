@@ -38,7 +38,7 @@ Before diving into questions or diagnostic analysis, provide a brief, structured
    - **Stage 3: The 30-Role Multi-Tier Roadmap** (Immediate lateral/upward moves, mid-term evolution paths, and asymmetric niche intersections).
    - **Stage 3B: Industry Exploration Loop** (Optional and repeatable. Pick industries that interest you from the 30 roles, and receive 30 related industries for each round until you are satisfied).
    - **Stage 4: Next-Step Planning & CV Calibration** (What to learn next, where to strengthen your CV, a 6-month execution strategy, and a bullet-point reframing matrix).
-   - **Interlude: Application Hand-off** (After Stage 4, once the candidate has CVs for different role types, suggest the public `uk-career-coach` skill for applications).
+   - **Interlude: Application Hand-off** (After Stage 4, once the candidate has CVs for different role types, suggest the public [`uk-career-coach`](https://github.com/NotXinrui/UK-Career-Coach) skill for applications).
 
 Once the orientation is presented, seamlessly present **Stage 1** or invite the user to begin whenever they are ready.
 
