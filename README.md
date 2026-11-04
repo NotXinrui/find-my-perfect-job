@@ -62,4 +62,4 @@ This skill works inside your conversation. Do not commit your CV, personal detai
 
 ## Related
 
-- [`uk-career-coach`]([#](https://github.com/NotXinrui/UK-Career-Coach)) — job-level support: job description assessment, CV tailoring, keyword gaps, and cover letters
+- [`uk-career-coach`](https://github.com/NotXinrui/UK-Career-Coach) — job-level support: job description assessment, CV tailoring, keyword gaps, and cover letters
