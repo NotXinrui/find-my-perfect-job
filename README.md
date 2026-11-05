@@ -9,6 +9,7 @@ Most career tools match CV keywords to job descriptions. This skill starts with 
 ## What it does
 
 - **Finds your patterns** from 5–7 moments you are proud of, across work, study, hobbies, and personal life
+- **Sets salary expectations** for six months and the long term, so every suggestion is checked against them
 - **Suggests 30 roles** in three tiers: immediate moves, mid-term evolution, and niche intersections
 - **Expands any interest** into 30 related industries, repeatable until you are satisfied
 - **Plans your next steps**: what to learn, where to strengthen your CV, and a 6-month timeline
@@ -24,6 +25,17 @@ Most career tools match CV keywords to job descriptions. This skill starts with 
 | 3. 30-role roadmap | Review three tiers of roles | 5 min |
 | 3B. Industry loop | (Optional) Pick interests and explore related industries | As needed |
 | 4. Next steps | Get a learning plan, CV guidance, and a 6-month timeline | 5 min |
+
+### Salary flags
+
+Each suggested role is marked with one of four flags:
+
+- **Fits both**: matches your interests and experience, and meets your long-term salary expectation
+- **Strong fit, long-term salary gap**: matches your interests and experience, but typical long-term pay falls short
+- **Salary fit, weaker match**: meets your salary expectation, but overlaps less with your interests or experience
+- **Salary unknown**: you did not state expectations, or market data is not reliable enough to judge
+
+Flags describe the situation. They are not a verdict on what you should do.
 
 ## Getting started
 
