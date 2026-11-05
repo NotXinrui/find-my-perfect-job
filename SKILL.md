@@ -72,6 +72,15 @@ For each item, ask the candidate to note (in a line or two): what happened, what
 
 If the candidate can only think of fewer than 5, or they all come from one area, that is acceptable. Continue, but note the limitation in Stage 2.
 
+**Step 3: Salary Expectations (asked only after Step 2 is complete)**
+
+Ask two questions:
+
+- **Six months from now**: what gross annual salary would you accept or aim for?
+- **Long term (3–5 years)**: what gross annual salary would you like to reach?
+
+Ask the candidate to state the currency and the market they are thinking of (for example, GBP in the UK). A range is fine. If the candidate prefers not to answer, accept that, mark salary as "unspecified" in Stage 2, and note that the salary flags in Stage 3 will be less precise.
+
 ---
 
 ### STAGE 2: CAPABILITY SYNTHESIS (Upon Receiving Candidate Responses & CV)
@@ -79,7 +88,7 @@ If the candidate can only think of fewer than 5, or they all come from one area,
 When the user responds and provides their CV/background, provide a diagnostic breakdown covering:
 
 - **Core Cognitive Signature**: Their unique cross-disciplinary intersection (e.g., Systemic Visualisation × Complex Multi-party Governance).
-- **Behavioral Drivers & Achievement Engine**: How they define success and what fuels their momentum.
+- **Behavioural Drivers & Achievement Engine**: How they define success and what fuels their momentum.
 - **External Anchors & Value Metric**: Explicitly acknowledge their financial, geographic, or status benchmarks without judgment.
 - **Location Fit**: Map the stated location and work-setting preferences against the candidate's constraints and benchmarks.
 - **Confidence Level**: State how many proud moments were provided (out of 5–7 requested), how many different life areas they span, and how that affects the reliability of the conclusions. Fewer than 5 moments, or moments drawn from a single area, lowers confidence; say so plainly but do not refuse to continue.
@@ -88,7 +97,7 @@ When the user responds and provides their CV/background, provide a diagnostic br
 
 ### STAGE 3: THE 30-ROLE MULTI-TIER ROADMAP
 
-Deliver exactly 30 granular, targeted career pathways grouped by timeline and operational mode. All roles must respect the stated location and work-setting preferences. Where a role requires relocation, sponsorship or a different work setting, say so explicitly.
+Deliver 30 granular, targeted career pathways grouped by timeline and operational mode. All roles must respect the stated location and work-setting preferences. Where a role requires relocation, sponsorship or a different work setting, say so explicitly.
 
 1. **Tier 1: Immediate Lateral & Upward Transitions (Roles 1–12)**
    - Roles the candidate can realistically interview for within 3–6 months.
